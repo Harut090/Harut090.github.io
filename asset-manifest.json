@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Harut090.github.io/static/css/main.dbf59e3e.css",
+    "main.js": "/Harut090.github.io/static/js/main.a5d178ef.js",
+    "static/media/fon.png": "/Harut090.github.io/static/media/fon.b8347e06516d31689e14.png",
+    "index.html": "/Harut090.github.io/index.html",
+    "main.dbf59e3e.css.map": "/Harut090.github.io/static/css/main.dbf59e3e.css.map",
+    "main.a5d178ef.js.map": "/Harut090.github.io/static/js/main.a5d178ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbf59e3e.css",
+    "static/js/main.a5d178ef.js"
+  ]
+}
